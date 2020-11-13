@@ -1,13 +1,13 @@
 spring:
   profiles:
-    active: 
-    - dev
+    active:
+    -dev
 
 ---
 
 spring:
   profiles:
-    active: dev 
+    active: dev
   application:
     name: microservice-config-qicheng-dev
 
